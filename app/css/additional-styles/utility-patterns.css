@@ -5,11 +5,11 @@
 }
 
 .btn {
-    @apply px-4 py-[11px] shadow-lg;
+    @apply px-4 py-2.75 shadow-lg;
 }
 
 .btn-sm {
-    @apply px-3 py-[5px] shadow-sm;
+    @apply px-3 py-1.25 shadow-sm;
 }
 
 /* Forms */
